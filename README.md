@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a **Cloud Engineer** with a passion for building scalable, secure, and efficient cloud-native solutions.  
-My core interests lie in **Cloud Computing**, **DevOps**, and **AI/ML integration** in modern infrastructure.
+I'm a **Machine Learning & Cloud Engineer** passionate about building intelligent, scalable, and cloud-native solutions.
+My core interests lie at the intersection of **Machine Learning**, **Cloud Computing**, and **DevOps**, with a focus on deploying AI-driven applications in real-world environments.
 
-I bring hands-on experience working with technologies like **Azure**, **Docker**, **Kubernetes**, and **GitHub Actions**, and I enjoy leveraging these tools to solve real-world problems.
+I bring hands-on experience in working with **Azure**, **Docker**, **Kubernetes**, and **GitHub Actions**, and I'm currently expanding my skills into **AWS** and **ML model deployment**.
 
 ---
 
@@ -34,6 +34,7 @@ I bring hands-on experience working with technologies like **Azure**, **Docker**
 
 - **Cloud:** Azure, AWS (learning)
 - **Containers:** Docker, Kubernetes
+- **ML & Data**: Scikit-learn, Pandas, NumPy, PyTorch, Hugging Face(learning)
 - **IaC & CI/CD:** Terraform, GitHub Actions
 - **Languages:** Python, Bash, YAML
 - **Other:** Linux, VS Code, Git
@@ -42,15 +43,23 @@ I bring hands-on experience working with technologies like **Azure**, **Docker**
 
 ## 🧠 Currently Learning
 
-- AWS Solutions Architect – Associate  
-- System Design Fundamentals  
-- Advanced Kubernetes & Helm
+- AWS Solutions Architect – Associate
+- System Design for AI Applications
+- MLOps & Model Deployment with Kubernetes
+- Transformers & NLP with Hugging Face
 
 ---
 
 ## 🚀 Let's Collaborate!
 
-If you're working on open-source, cloud projects, or AI-enabled systems — I’d love to contribute or collaborate!
+I'm always up for contributing to open-source projects, especially those that involve:
+
+- Cloud-native ML model deployment
+- Scalable data pipelines
+- AI/ML for real-world impact
+- Infrastructure automation & MLOps
+
+If you're working on something exciting in these areas, let’s connect!
 
 ---
 
